@@ -1,6 +1,6 @@
 # Strava Web App - Jonathan Chak
 
-This is a full-stack web app project that grabs data from Strava's external API to display cool results runners, cyclists, hikers, etc.
+This is a full-stack web app project that grabs data from Strava's external API to display cool results for runners, cyclists, hikers, etc.
 
 # Tech Stack
 
