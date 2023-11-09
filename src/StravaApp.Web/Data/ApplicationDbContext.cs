@@ -5,7 +5,7 @@ using StravaApp.Web.Models;
 
 namespace StravaApp.Web.Data;
 
-public class ApplicationDbContext : IdentityDbContext<User, IdentityRole, string>
+public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityRole, string>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)

@@ -2,7 +2,7 @@
 
 namespace StravaApp.Web.Models;
 
-public class User : IdentityUser
+public class ApplicationUser : IdentityUser
 {
     /// <summary>
     ///     Strava user id.
